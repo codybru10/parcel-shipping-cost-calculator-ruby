@@ -1,12 +1,12 @@
-# Triangle Calculator
+# Parcel Calculator
 
-#### An app that calculates type of triangle, 28 Nov 2016
+#### An app that calculates the cost to ship a parcel, 28 Nov 2016
 
 #### By Jim Padilla and Cody Brubaker
 
 ## Description
 
-This Ruby app has a front end interface where a user will enter three pieces of information. Each piece of information corresponds to a side of a triangle. The backend will calculate what kind of triangle these three sides would make.
+This Ruby app has a front end interface where a user will enter four pieces of information. Each piece of inputted information corresponds to the package dimensions. The backend will calculate the volume and then the cost to ship based on volume and weight.
 
 ## Setup/Installation Requirements
 
